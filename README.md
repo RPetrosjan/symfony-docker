@@ -39,4 +39,9 @@ DATABASE_URL=mysql://root:root@mysql:3306/symfony?serverVersion=5.7
 ```
 
 call [localhost](http://localhost/) in your browser
- 
+
+
+<strong>My Custom Commands</storng>
+```
+winpty docker exec -it symfony-docker_php_1 sh
+```
